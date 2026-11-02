@@ -225,8 +225,13 @@ Exploring the next generation of intelligent AI applications.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejasr-2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasr-2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF" alt="Most used languages"/>
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=tejasr-2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF"
+    alt="GitHub Statistics"/>
+
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tejasr-2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF"
+    alt="Most Used Languages"/>
 </p>
 
 ---
@@ -236,7 +241,9 @@ Exploring the next generation of intelligent AI applications.
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=tejasr-2006&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+  <img width="75%"
+    src="https://streak-stats.demolab.com?user=tejasr-2006&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+    alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -246,7 +253,9 @@ Exploring the next generation of intelligent AI applications.
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasr-2006&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Tejas%27s%20GitHub%20Activity" alt="GitHub activity graph"/>
+  <img width="95%"
+    src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/main/profile-summary-card-output/radical/0-profile-details.svg"
+    alt="GitHub Contribution Activity"/>
 </p>
 
 ---
