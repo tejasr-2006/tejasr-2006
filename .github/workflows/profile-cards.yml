@@ -24,6 +24,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
-          UTC_OFFSET: 5.5
+          UTC_OFFSET: "5.5"
           THEME: radical
           AUTO_PUSH: true
