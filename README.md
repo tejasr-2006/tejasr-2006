@@ -132,8 +132,12 @@
 
 ## 🔥 GitHub Contribution Streak
 
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=tejasr-2006&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+  <img width="75%"
+    src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/main/profile/streak.svg"
+    alt="GitHub Contribution Streak"/>
 </p>
 
 ---
