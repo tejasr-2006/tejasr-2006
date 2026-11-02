@@ -188,9 +188,18 @@ Learning intelligent agents, LLM integrations, tool calling, and autonomous work
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake-dark.svg">
 
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg">
+
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
+</p>
 <!--
 SNAKE ANIMATION SETUP
 
