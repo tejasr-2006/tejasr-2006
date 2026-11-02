@@ -1,8 +1,7 @@
- <!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--                    TEJAS R | PROFILE                    -->
 <!-- ========================================================= -->
 
-<!-- HEADER -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EF93C4,100:FF69B4&text=TEJAS%20R&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=AI%20Developer%20%7C%20Python%20Developer&descAlignY=60&descSize=18" alt="Tejas R profile banner"/>
 </p>
@@ -22,261 +21,148 @@
     <img src="https://img.shields.io/github/followers/tejasr-2006?style=for-the-badge&color=EF93C4&labelColor=1a1b27&label=Followers" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/tejasr-2006?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-F8BBD0?style=for-the-badge&labelColor=1a1b27" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Explore-Repositories-F8BBD0?style=for-the-badge&labelColor=1a1b27" alt="Explore repositories"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=tejasr-2006&style=for-the-badge&color=FF69B4&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
+## ✨ About Me
 
-<h2 align="center">✨ About Me</h2>
-
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
-
-### Hi, I'm Tejas R! 👨‍💻
-
-I'm passionate about Artificial Intelligence, Python development, automation, and building intelligent applications that solve real-world problems.
-
-- 🤖 Building **JARVIS**, my personal AI assistant.
-- 🐍 Developing applications using Python.
-- 🧠 Exploring LLMs, Agentic AI, and AI-powered automation.
-- ⚡ Interested in intelligent productivity systems.
-- 🔧 Working with APIs, backend development, and application integration.
-- 🚀 Constantly learning, experimenting, and building.
-
-**My Vision**
-
-To build intelligent systems that make everyday life smarter, simpler, and more productive.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/tejasr-2006.png" width="210" alt="Tejas R GitHub avatar"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <p>Hi, I'm Tejas R! I'm interested in Artificial Intelligence, Python development, automation, and building useful software.</p>
+      <ul>
+        <li>🤖 Building <strong>JARVIS</strong>, a modular personal AI assistant.</li>
+        <li>🐍 Developing backend applications with Python.</li>
+        <li>🧠 Exploring LLMs, agentic AI, and tool calling.</li>
+        <li>⚡ Interested in AI-powered productivity and automation.</li>
+        <li>🚀 Learning by designing, building, testing, and improving projects.</li>
+      </ul>
+      <p><strong>My goal:</strong> Build intelligent systems that make everyday work simpler, smarter, and more productive.</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://github.com/tejasr-2006.png" width="190" alt="Tejas R GitHub avatar"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- CURRENT FOCUS -->
+## 🚀 Featured Projects
 
-<h2 align="center">🎯 What I'm Currently Working On</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Personal%20AI%20Assistant-EF93C4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Exploring-Agentic%20AI-F8BBD0?style=for-the-badge"/>
-</p>
-
-Currently focused on developing **JARVIS**, a modular personal AI assistant designed to bring multiple productivity applications together.
-
-Areas of development:
-
-- AI reasoning and natural language understanding.
-- Tool calling and intelligent task execution.
-- Integration with independent applications.
-- Email management and prioritization.
-- Fitness and workout tracking.
-- Task, routine, and day planning.
-- Context management and personal memory.
-- Secure, permission-based automation.
-
----
-
-<!-- FEATURED PROJECTS -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 JARVIS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Personal-AI%20Assistant-EF93C4?style=flat-square"/>
-</p>
-
-An ambitious personal AI assistant inspired by intelligent virtual assistants.
-
-**Key focus:**
-- AI reasoning and tool calling.
-- Modular application integration.
-- Email and fitness management.
-- Task and routine automation.
-- FastAPI backend architecture.
-
-<p align="center">
-  <a href="https://github.com/tejasr-2006?tab=repositories">Explore Projects</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📧 AI Email Manager</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered%20Email%20Management-F8BBD0?style=flat-square"/>
-</p>
-
-An intelligent email management application designed to improve inbox productivity.
-
-**Key focus:**
-- Email management.
-- Priority identification.
-- Intelligent email organization.
-- AI-powered productivity.
-
-<p align="center">
-  <a href="https://github.com/tejasr-2006/personal-ai-email-manager">View Repository ↗</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏋️ AI Fitness Manager</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fitness-Management-FF69B4?style=flat-square"/>
-</p>
-
-A personal fitness management application focused on workout tracking and progress monitoring.
-
-**Key focus:**
-- Workout tracking.
-- Fitness data management.
-- Progress monitoring.
-- Personal fitness organization.
-
-<p align="center">
-  <a href="https://github.com/tejasr-2006/Personal-AI-Fitness-Tracker">View Repository ↗</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 Agentic AI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Exploring-Intelligent%20Agents-EF93C4?style=flat-square"/>
-</p>
-
-Exploring the next generation of intelligent AI applications.
-
-**Areas of interest:**
-- Large Language Models.
-- AI agents and orchestration.
-- Function and tool calling.
-- Autonomous workflows.
-- Intelligent automation.
-
-<p align="center">
-  <a href="https://github.com/tejasr-2006?tab=repositories">Explore Repositories ↗</a>
-</p>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 JARVIS</h3>
+      <p align="center"><strong>Personal AI Assistant</strong></p>
+      <p>A modular personal AI assistant project focused on bringing intelligent reasoning, application integrations, and productivity workflows into one place.</p>
+      <p><strong>Exploring:</strong> Python, FastAPI, Gemini, tool calling, integrations, and automation.</p>
+      <p align="center"><a href="https://github.com/tejasr-2006/Jarvis">View JARVIS repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📧 AI Email Manager</h3>
+      <p align="center"><strong>Intelligent Email Management</strong></p>
+      <p>A Python application focused on managing email workflows and helping prioritize important messages.</p>
+      <p><strong>Focus:</strong> Email organization, prioritization, and AI-assisted productivity.</p>
+      <p align="center"><a href="https://github.com/tejasr-2006/personal-ai-email-manager">View Email Manager repository ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏋️ AI Fitness Manager</h3>
+      <p align="center"><strong>Personal Fitness Management</strong></p>
+      <p>A fitness application focused on workout tracking and monitoring personal progress.</p>
+      <p><strong>Focus:</strong> Workout records, fitness data, and progress tracking.</p>
+      <p align="center"><a href="https://github.com/tejasr-2006/Personal-AI-Fitness-Tracker">View Fitness Manager repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Agentic AI</h3>
+      <p align="center"><strong>Learning & Experimentation</strong></p>
+      <p>Exploring how LLM-powered agents can reason, use tools, and coordinate multi-step workflows.</p>
+      <p><strong>Topics:</strong> LLMs, agent orchestration, tool calling, and automation.</p>
+      <p align="center"><a href="https://github.com/tejasr-2006?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
+## 🛠️ Tech Stack & Tools
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<h3 align="center">Programming Languages</h3>
-
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS"/>
 </p>
 
 <h3 align="center">Frameworks & Backend</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI and Flask"/>
 </p>
 
-<h3 align="center">Development Tools</h3>
-
+<h3 align="center">Developer Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
 </p>
 
 <h3 align="center">AI & Emerging Technologies</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-EF93C4?style=for-the-badge" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-FF69B4?style=for-the-badge" alt="LLM Integration"/>
-  <img src="https://img.shields.io/badge/AI%20Automation-F8BBD0?style=for-the-badge" alt="AI Automation"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-FF69B4?style=for-the-badge" alt="LLM integration"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-F8BBD0?style=for-the-badge" alt="AI automation"/>
 </p>
 
 ---
 
-<!-- GITHUB STATISTICS -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=tejasr-2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF"
-    alt="GitHub Statistics"/>
-
-  <img width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tejasr-2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF"
-    alt="Most Used Languages"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=tejasr-2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF" alt="GitHub statistics"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tejasr-2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF" alt="Most used programming languages"/>
+  </a>
 </p>
 
 ---
 
-<!-- CONTRIBUTION STREAK -->
-
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img width="75%"
-    src="https://streak-stats.demolab.com?user=tejasr-2006&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-    alt="GitHub Contribution Streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=tejasr-2006&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
-  <img width="95%"
-    src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/main/profile-summary-card-output/radical/0-profile-details.svg"
-    alt="GitHub Contribution Activity"/>
+  <img width="95%" src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub contribution activity"/>
 </p>
+
+> The activity card above is generated by the GitHub Actions workflow in `.github/workflows/profile-cards.yml`. Run the workflow once after adding it to your profile repository.
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg" width="100%">
+    <img width="100%" src="https://raw.githubusercontent.com/tejasr-2006/tejasr-2006/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
   </picture>
 </p>
 
+> To enable the snake, add a separate snake-generation workflow and allow GitHub Actions to write to the repository.
+
 ---
 
-<!-- CODING PROFILES -->
-
-<h2 align="center">💻 Coding Profiles</h2>
+## 💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/tejasr-2006/">
@@ -289,9 +175,7 @@ Exploring the next generation of intelligent AI applications.
 
 ---
 
-<!-- CONNECT -->
-
-<h2 align="center">🌐 Let's Connect</h2>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/tejasr-2006">
@@ -305,24 +189,15 @@ Exploring the next generation of intelligent AI applications.
   </a>
 </p>
 
-<p align="center">
-  💬 Open to collaboration, learning, and exciting AI projects!
-</p>
+<p align="center">💬 Open to collaboration, learning, and interesting software projects!</p>
 
 ---
 
-<!-- FOOTER -->
+<p align="center"><i>"Building today what I imagine for tomorrow."</i></p>
 
 <p align="center">
-  <i>"Building today what I imagine for tomorrow."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer" width="100%" alt="Pink footer banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer" alt="Pink footer banner"/>
 </p>
 
 <h3 align="center">Thanks for visiting my profile! 💗</h3>
-
-<p align="center">
-  <sub>Designed with passion by Tejas R</sub>
-</p>
+<p align="center"><sub>Designed with passion by Tejas R</sub></p>
