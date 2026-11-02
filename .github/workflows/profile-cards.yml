@@ -1,4 +1,3 @@
-
 name: Generate Profile Summary Cards
 
 on:
@@ -8,6 +7,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -20,7 +23,10 @@ jobs:
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The default GITHUB_TOKEN can only see public data and produces
+          # incomplete cards. Add a Personal Access Token as a repo secret
+          # named PROFILE_README_TOKEN for full stats; falls back otherwise.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main

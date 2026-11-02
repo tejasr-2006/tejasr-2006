@@ -1,4 +1,3 @@
-
 name: Update GitHub Contribution Streak
 
 on:
@@ -9,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,12 +20,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate streak statistics
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          options: >-
-            user=tejasr-2006&theme=dark&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA
-          path: profile/streak.svg
+      - name: Fetch streak card
+        run: |
+          mkdir -p profile
+          curl -fsSL --retry 3 --retry-delay 5 -o /tmp/streak.svg \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+          # Only replace the old card if we really got an SVG back
+          if grep -q "<svg" /tmp/streak.svg; then
+            mv /tmp/streak.svg profile/streak.svg
+          else
+            echo "Response was not an SVG; keeping the existing card."
+            exit 1
+          fi
 
       - name: Commit streak image
         run: |
